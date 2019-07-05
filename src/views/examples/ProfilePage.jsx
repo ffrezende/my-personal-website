@@ -193,10 +193,10 @@ class ProfilePage extends React.Component {
               </Row>
             </Container>
           </div> */}
-          {/* <section className='section'>
+          <section className='section'>
             <Container>
               <Row>
-                <Col md='6'>
+                {/* <Col md='6'>
                   <Card className='card-plain'>
                     <CardHeader>
                       <h1 className='profile-title text-left'>Contact</h1>
@@ -255,7 +255,7 @@ class ProfilePage extends React.Component {
                       </Form>
                     </CardBody>
                   </Card>
-                </Col>
+                </Col> */}
                 <Col className='ml-auto' md='4'>
                   <div className='info info-horizontal'>
                     <div className='icon icon-primary'>
@@ -284,7 +284,7 @@ class ProfilePage extends React.Component {
                 </Col>
               </Row>
             </Container>
-          </section> */}
+          </section>
           <Footer />
         </div>
       </div>
