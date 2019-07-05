@@ -17,10 +17,7 @@ class PageHeader extends React.Component {
         <Container>
           <div className='content-center brand'>
             <h1 className='h1-seo'>Fabricio Rezende</h1>
-            <h3 className='d-none d-sm-block'>
-              A beautiful Design System for Bootstrap 4 (reactstrap) and React. It's Free and Open
-              Source.
-            </h3>
+            <h3 className='d-none d-sm-block'>Web Developer @ FullStack JavaScript</h3>
           </div>
         </Container>
       </div>
