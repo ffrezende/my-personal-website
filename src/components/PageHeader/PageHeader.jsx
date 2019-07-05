@@ -40,13 +40,13 @@ class PageHeader extends React.Component {
             <h1 className='h1-seo'>Fabricio Rezende</h1>
             <h3 className='d-none d-sm-block'>Web Developer @ FullStack JavaScript</h3>
             <Col sm='12'>
-              <Link to='profile-page'>
+              {/* <Link to='profile-page'>
                 <img
                   alt='...'
                   className='img-raised'
                   src={require('assets/img/profile-page.png')}
                 />
-              </Link>
+              </Link> */}
               <Button className='btn-simple btn-round' color='primary' to='profile-page' tag={Link}>
                 View Profile Page
               </Button>
