@@ -95,7 +95,15 @@ class ProfilePage extends React.Component {
                 <Col lg='6' md='6'>
                   <h1 className='profile-title text-left'>Fabicio Rezende</h1>
                   <h5 className='text-on-back'>01</h5>
-                  <p className='profile-description'>Descriptions</p>
+                  <p className='profile-description'>
+                    Experience as a Computer Engineer working on how to develop FullStack brings me
+                    the possibility of critical analysis of different scenarios and the search for
+                    optimal solutions. I have experience with frontend technologies such as:
+                    JavaScript / TypeScript (AngularJs / CLI and React / Redux). My experience in
+                    backend passes from Node.Js as well as Java Spring / Hibernate and C # .Net Core
+                    / Entity. I have experience in DevOps CI / CD with Jenkins and Trevis.
+                    Infrastructure in Docker / Kubernetes.
+                  </p>
                 </Col>
                 <Col className='ml-auto mr-auto' lg='4' md='6'>
                   <Card className='card-coin card-plain'>
